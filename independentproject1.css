@@ -10,9 +10,20 @@
 .about {
   float: right;
   background-color: skyblue;
-
+  padding-left: 50px;
+  font-size: 15px;
 }
+
+h2 {
+  color:yellowgreen;
+  font-style: oblique;
+  background-position: center;
+  text-align: center;
+
+ }
+
 h3 {
   font-size: 30px;
   color: orange;
+  background-color: black;
 }
