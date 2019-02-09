@@ -10,7 +10,6 @@
 .about {
   float: right;
   background-color: skyblue;
-  padding-left: 50px;
   font-size: 15px;
 }
 
@@ -19,11 +18,18 @@ h2 {
   font-style: oblique;
   background-position: center;
   text-align: center;
+  font-size: 30px;
+
+ }
+
+
 
  }
 
 h3 {
-  font-size: 30px;
+  font-size: 20px;
   color: orange;
   background-color: black;
+}
+
 }
